@@ -1,4 +1,4 @@
-<img width="1024" height="651" alt="image" src="https://github.com/user-attachments/assets/4c506947-de34-445e-a97f-631160726b01" />
+<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/4c506947-de34-445e-a97f-631160726b01" />
 🎵 Spotify Data Analysis using Python
 📌 Project Overview
 _____________________________________________________________________________________________________________________________________________________________________________
